@@ -1,4 +1,4 @@
-package com.vkry.stage1;
+package org.eureka.server;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
